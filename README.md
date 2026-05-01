@@ -15,19 +15,17 @@ O link acima é fixo. Sempre que o cronograma for atualizado, o conteúdo mais r
 
 ## 🗓️ Etapas do cronograma
 
-| Etapa | Periodo |
-|---|---|
-| Encerramento das inscrições | 29 abr 2026 |
-| Matricula e vinculo ao AVA | 30 abr a 08 mai 2026 |
-| Envio das orientacoes de acesso | 08 mai 2026 |
-| Modulo 1 - Caminhos e Historia | 08 a 21 mai 2026 |
-| Modulo 2 - Direitos, Leis e Apoio | 22 mai a 04 jun 2026 |
-| Modulo 3 - Superando Desafios | 05 a 21 jun 2026 |
-| Encerramento da capacitacao | 21 jun 2026 |
-| Emissao de certificados | 30 jun 2026 |
-| Avaliacao e preparacao Turma 2 | Agosto 2026 |
-| Captacao Turma 2 | Setembro 2026 |
-| Início da Turma 2 | Outubro 2026 |
+- Encerramento das inscricoes — 29 abr 2026
+- Matricula e vinculo ao AVA — 30 abr a 08 mai 2026
+- Envio das orientacoes de acesso — 08 mai 2026
+- Modulo 1 Caminhos e Historia — 08 a 21 mai 2026
+- Modulo 2 Direitos, Leis e Apoio — 22 mai a 04 jun 2026
+- Modulo 3 Superando Desafios — 05 a 21 jun 2026
+- Encerramento da capacitacao — 21 jun 2026
+- Emissao de certificados — 30 jun 2026
+- Avaliacao e preparacao Turma 2 — Agosto 2026
+- Captacao Turma 2 — Setembro 2026
+- Inicio da Turma 2 — Outubro 2026
 
 ## 📁 Estrutura do repositório
 
